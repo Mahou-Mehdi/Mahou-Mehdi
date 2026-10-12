@@ -1,6 +1,6 @@
 # Mahou Mehdi
 
-**Industrial & Computer Engineering · Applied AI / Machine Learning · Full-Stack Development**
+**Industrial & Computer Engineering · SAP Development & Integrations · Applied AI**
 
 I am an engineering graduate from **Polytech Marseille**, specializing in computer engineering. My interests connect machine learning, software development, and industrial systems: understanding a practical problem, building a solution, and evaluating how well it works.
 
@@ -8,12 +8,21 @@ My experience includes machine unlearning for image classification, battery-heal
 
 [LinkedIn](https://www.linkedin.com/in/mahou)
 
+## SAP development & integrations
+
+I am building practical skills for SAP developer and integration roles through a focused portfolio application: [SAP Procurement Approval Workbench](https://github.com/Mahou-Mehdi/sap-procurement-workbench).
+
+The project uses **SAP CAP, CDS, OData V4 and OpenUI5** for a purchasing workflow with role-based approvals, concurrency checks, audit history and a durable export queue with retry and duplicate prevention. It includes 31 automated tests, setup instructions, screenshots and a guided learning lab.
+
+It runs locally with a clearly identified ERP simulator. Live S/4HANA integration and SAP BTP deployment are future extensions; this is an independent learning project.
+
 ## Featured projects
 
 These repositories contain independent portfolio implementations and reproducible demonstrations. Each README describes the scope, data, evaluation, and limitations.
 
 | Project | Focus |
 | --- | --- |
+| [SAP procurement workbench](https://github.com/Mahou-Mehdi/sap-procurement-workbench) | SAP CAP / CDS, OpenUI5, OData, approval rules and resilient simulated ERP integration |
 | [Industrial document assistant](https://github.com/Mahou-Mehdi/industrial-document-assistant) | Local document retrieval, source citations, answerability evaluation, and a usable interface |
 | [Production scheduler](https://github.com/Mahou-Mehdi/production-scheduler) | Scheduling constraints, optimization, baseline comparisons, and visual schedules |
 | [Visual defect inspection](https://github.com/Mahou-Mehdi/visual-defect-inspection) | Image anomaly detection, localization, and reproducible evaluation |
@@ -38,6 +47,6 @@ These repositories contain independent portfolio implementations and reproducibl
 
 ## Current interests
 
-Reproducible ML experiments, dependable AI applications, industrial optimization, and software that remains useful beyond its first demonstration.
+SAP application development and enterprise integrations, reproducible ML experiments, industrial optimization, and software that remains useful beyond its first demonstration.
 
 I am gradually documenting and publishing my work here. For professional contact, find me on [LinkedIn](https://www.linkedin.com/in/mahou).
