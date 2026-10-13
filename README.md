@@ -18,10 +18,17 @@ It runs locally with a clearly identified ERP simulator. Live S/4HANA integratio
 
 ## Featured projects
 
+### RelayOps — agent control center
+
+[RelayOps](https://github.com/Mahou-Mehdi/relayops) explores AI-assisted integration incident investigation and supervised code repair. Its first release combines **FastAPI, LangGraph, React/TypeScript and SQLite** with scoped tools, cited evidence, exact-action approvals, verified recovery and tested decimal-mapping patches.
+
+It includes a repeatable fictional incident lab, an optional live-model provider, 90 backend tests and 8 frontend tests. The local deterministic demonstrations are clearly separated from live AI evaluation; SAP connectivity and general repository repair are planned extensions.
+
 These repositories contain independent portfolio implementations and reproducible demonstrations. Each README describes the scope, data, evaluation, and limitations.
 
 | Project | Focus |
 | --- | --- |
+| [RelayOps](https://github.com/Mahou-Mehdi/relayops) | Agent investigation, human approval, operation verification and restricted code repair |
 | [SAP procurement workbench](https://github.com/Mahou-Mehdi/sap-procurement-workbench) | SAP CAP / CDS, OpenUI5, OData, approval rules and resilient simulated ERP integration |
 | [Industrial document assistant](https://github.com/Mahou-Mehdi/industrial-document-assistant) | Local document retrieval, source citations, answerability evaluation, and a usable interface |
 | [Production scheduler](https://github.com/Mahou-Mehdi/production-scheduler) | Scheduling constraints, optimization, baseline comparisons, and visual schedules |
